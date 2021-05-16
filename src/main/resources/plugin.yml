@@ -1,0 +1,6 @@
+name: bv-BlockedCMDs
+version: ${project.version}
+main: pl.barthvisuals.bvblockedcmds.Main
+api-version: 1.16
+authors: [ BarthVisuals ]
+website: BarthVisuals.pl
